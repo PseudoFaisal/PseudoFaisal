@@ -1,6 +1,6 @@
 <!-- Markdown -->
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hzjgyj5m2vmfp35infvzisaoui&cover_image=true&theme=default&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <p align="center">
   <img width="500" src="https://github.com/PseudoFaisal/PseudoFaisal/blob/main/Genius.gif" alt="Material Bread logo">
