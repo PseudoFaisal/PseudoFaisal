@@ -15,9 +15,8 @@
 💻 Strong desire and determination to succeed through focused, systematic, and disciplined approach to work.
 
 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31hzjgyj5m2vmfp35infvzisaoui)
 
-<p align="center">
-  <img width="400" src="https://github.com/PseudoFaisal/PseudoFaisal/blob/main/Enjoy.gif" alt="Material Bread logo">
-</p>
+
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
