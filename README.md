@@ -1,7 +1,7 @@
 <!-- Markdown -->
 
 <p align="center">
-  <img width="700" src="https://github.com/PseudoFaisal/PseudoFaisal/blob/main/Genius.gif" alt="Material Bread logo">
+  <img width="500" src="https://github.com/PseudoFaisal/PseudoFaisal/blob/main/Genius.gif" alt="Material Bread logo">
 </p>
 
 👋🏽 Hi, my name is Faisal
@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <img width="500" src="https://github.com/PseudoFaisal/PseudoFaisal/blob/main/Enjoy.gif" alt="Material Bread logo">
+  <img width="400" src="https://github.com/PseudoFaisal/PseudoFaisal/blob/main/Enjoy.gif" alt="Material Bread logo">
 </p>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
