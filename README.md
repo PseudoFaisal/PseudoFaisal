@@ -2,6 +2,7 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+![]
 
 Here are some ideas to get you started:
 
